@@ -1,4 +1,4 @@
-Rett invest webshop
+Rett Vest Invest webshop
 
 webshop, med produkt styring og admin.
 
