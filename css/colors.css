@@ -26,6 +26,10 @@
   color: #4652f6;
 }
 
-.background-primary {
+/*.background-primary {
+  background-color: #eeeeee;
+}*/
+
+html {
   background-color: #eeeeee;
 }
