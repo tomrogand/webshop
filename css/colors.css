@@ -1,0 +1,31 @@
+.primary {
+  color: #0088ce;
+}
+
+.primary-bg {
+  background-color: #21b3b3
+}
+
+.accent {
+  color: #3e3e3e;
+}
+
+.success {
+  color: #28cc20;
+}
+
+.warning {
+  color: #ff7300;
+}
+
+.danger {
+  color: #dd1111;
+}
+
+.info {
+  color: #4652f6;
+}
+
+.background-primary {
+  background-color: #eeeeee;
+}
